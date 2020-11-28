@@ -1,1 +1,1 @@
-# orientation-sample-repo
+# Promineo Tech Bootcamp orientation-sample-repo
